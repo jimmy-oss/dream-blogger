@@ -10,9 +10,9 @@
     <title>Blog Quotes</title>
 </head>
 <body>
-      <h3> {{ quote }} </h3>
-      <h2>{{ author }}</h2>
-   <a href="{{ url_for('quote') }}" class="block refresh round">refresh</a>
+      <h3 style="color:#ffff;font-family:serif"> {{ quote }} </h3>
+      <h2 style="font-family: cursive; color:#ffff;margin-left:18rem;margin-top:2rem" >{{ author }}</h2>
+   <a href="{{ url_for('quote') }}" class="block refresh round" style="text-decoration: none; font-size:25px;">refresh</a>
 </body>
 </html> 
 {% endblock %}

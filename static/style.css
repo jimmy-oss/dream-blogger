@@ -1,19 +1,12 @@
 .head{
   margin:0 auto;
   width:60%;
-  background: #ff00cc;  
-  background: -webkit-linear-gradient(to right, #333399, #ff00cc);  
-  background: linear-gradient(to right, #333399, #ff00cc);  
-  background-size: cover;
-  height: 180vh; 
-  background-attachment: scroll;
-  color: #333333;
+
 }
 
 h1{
   text-align: center;
 }
-
 
 .quote { 
   text-align:center;
