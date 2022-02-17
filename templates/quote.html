@@ -1,3 +1,5 @@
+{% extends "layout.html" %}
+{%block content%}
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -8,13 +10,9 @@
     <title>Blog Quotes</title>
 </head>
 <body>
-  <div class="head block">
-   <h1>Quotify</h1> 
-  </div>
-      <div class="quote block">
       <h3> {{ quote }} </h3>
       <h2>{{ author }}</h2>
-   </div>
-   <a href="{{ url_for('index') }}" class="block refresh round">refresh</a>
+   <a href="{{ url_for('quote') }}" class="block refresh round">refresh</a>
 </body>
-</html>
+</html> 
+{% endblock %}
