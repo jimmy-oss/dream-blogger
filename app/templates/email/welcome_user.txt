@@ -1,0 +1,3 @@
+Hello👋 {{user.username}}
+Welcome to 𝒹𝓇𝑒𝒶𝓂 𝒷𝓁💞𝑔𝑔𝑒𝓇  
+We have just seen you have signed up for our application and we want to welcome you to our family. Please feel free to post your creative blogs and also enjoy, your fellow friends creative blogs you like🤗.
