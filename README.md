@@ -4,7 +4,8 @@
 
 ![Screen Shot 2022-02-18 at 17 55 29](https://user-images.githubusercontent.com/62022158/154708352-1eab1a1a-1926-4bca-8150-4cec98d7d648.png)
 
-Its a web application that allows users post their own blogs and creative ideas that make them standout from the rest🤗. the web application has a welcoming quote the users is able to receive random quotes from the web application. The users are allowed to post their blogs,update their blogs and even delete. The users are able to view updated blogs from their fellow colleagues.
+Its a web application that allows users post their own blogs and creative ideas that make them standout from the rest🤗
+The web application has a welcome quote where the users are able to receive random quotes from the web application. The users are allowed to post their blogs,update their blogs and even delete. The users are able to view updated blogs from their fellow colleagues.
 
 # Description🌸
 
