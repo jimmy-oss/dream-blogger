@@ -1,4 +1,4 @@
-# 𝒹𝓇𝑒𝒶𝓂 𝒷𝓁💞𝑔𝑔𝑒𝓇
+# Dream Blogger💞
 
 ![Screen Shot 2022-02-18 at 17 54 38](https://user-images.githubusercontent.com/62022158/154707599-35f293a8-6f96-4033-a828-96ebd7b0463e.png)
 
